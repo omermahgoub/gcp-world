@@ -7,3 +7,12 @@ I've being dealing with the cloud for almost 10 years by now (July 2022), I spen
 
 ### GCP Certifications
 A curated list of GCP certification materials: videos courses, practice exams, prep tips, etc.
+
+[Google Cloud - Professional Cloud Developer](https://cloud.google.com/certification/cloud-developer)
+
+
+
+
+**Google Cloud - Professional Cloud Developer**
+[Exam Guide: ](https://cloud.google.com/certification/guides/cloud-developer)
+
